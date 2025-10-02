@@ -11,7 +11,7 @@ How to cite this project
 
 If you use this project in your work, please cite it as:
 
-Cruz-De-Jesús, E., Martínez-Ramos, J. L., & Marano-Marcolini, A. (2025). Electricity Consumption and PV Generation Dataset (Version 2.0.4). https://github.com/Amiliha/Time-Series-Data-of-electricty-consumption-and-PV-generation.git
+Ángel Arcos-Vargas, David Canca, Fernando Núñez. (2025). Electricity prices and Co2 equivalent emissions Dataset (Version 1.0). https://github.com/Amiliha/Time-Series-Data-of-electricty-consumption-and-PV-generation.git
 Input data for UVTS and MVTS clustering and their results
 
 This folder contains the input time series for the execution of the Univariate Time Series (UVTS) and Multivariate Time Series (MVTS) clustering. It also contains all the results obtained by applying these clustering techniques. Together with the model explained in the article, these data allow the results presented in the article to be reproduced. The objective is to contribute to the scientific community and enable future researchers to build on this work.
