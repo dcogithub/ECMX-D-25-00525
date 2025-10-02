@@ -21,9 +21,16 @@ Special regime: renewables, cogeneration, and waste (RE)
 Imports from the Portuguese power system (MIP)			
 Imports from other European countries (II)			
 
+
 This publication is part of the project **TED2021-131724B-I00**, funded
 by **MICIU/AEI/ 10.13039/501100011033** and by the European Union
 **NextGenerationEU/PRTR**.
+Título: Comunidades locales energéticas para un sistema descarbonizado.
+Responsable: Antonio Gómez Expósito / Ángel Arcos Vargas.
+Tipo de Proyecto/Ayuda: Proyectos de Transición Ecológica y Transición Digital.
+Referencia: TED2021-131724B-I00.
+Fecha de Inicio: 01-12-2022.
+Fecha de Finalización: 30-09-2025
 
 
 
