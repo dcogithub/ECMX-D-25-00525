@@ -1,6 +1,12 @@
 Time-Series-Data-of-electricty-prices-and-PV-generation
 
-This repository contains time series data on electricity prices and photovoltaic generation over the course of a year. It also contains load and photovoltaic (PV) generation profiles obtained using univariate and multivariate time series clustering techniques. The README file provides detailed explanations of all datasets.
+This repository contains time series data on electricity prices and equivalent Co2 emmisions used in the paper "Environmental arbitrage with battery storage: Reducing emissions from electricity generation"							
+Ángel Arcos-Vargas, David Canca, Fernando Núñez. Energy Conversion and Management X. Volume 27, July 2025, 101152. https://doi.org/10.1016/j.ecmx.2025.101152		D
+<img width="734" height="63" alt="imagen" src="https://github.com/user-attachments/assets/6828fc68-f49e-46b1-ac9f-c2f25532c302" />
+						
+Energy Conversion and Management X							
+<img width="734" height="63" alt="imagen" src="https://github.com/user-attachments/assets/e6ddd61a-0f0d-41f9-b74f-31c8de1ee60f" />
+c generation over the course of a year. It also contains load and photovoltaic (PV) generation profiles obtained using univariate and multivariate time series clustering techniques. The README file provides detailed explanations of all datasets.
 How to cite this project
 
 If you use this project in your work, please cite it as:
